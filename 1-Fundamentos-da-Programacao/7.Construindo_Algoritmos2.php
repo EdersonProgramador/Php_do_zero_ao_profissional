@@ -1,0 +1,9 @@
+ALGORITIMO: CALCULO DO VALOR DA PASSAGEM
+
+idade = IDADE DA PESSOA
+preco = 10
+
+SE idade <= 65
+    DIZER: O preço é preco
+CASO CONTRÁRIO
+    DIZER: O preço é GRÁTIS

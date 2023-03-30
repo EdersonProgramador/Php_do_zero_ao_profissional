@@ -1,6 +1,6 @@
 // A teoria de lógica de programação é igual a prática.
 
-Algorítimo para trocar o pinel 
+Algorítimo para trocar o pneu;
 
 SE o peneu estiver furado:
     1 - Pegar as ferramentas.

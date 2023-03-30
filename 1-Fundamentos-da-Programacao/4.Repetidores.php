@@ -12,8 +12,7 @@ ENQUANTO x <= 10
     Estruturas de repetição são recursos que permitem executar trechos de código mais de uma vez de acordo com uma condição. 
     O PHP possui quatro estruturas de repetição: for, foreach, while e do-while.
 
-<?php
     for;
     foreach; 
-    while e 
+    while
     do-while.
